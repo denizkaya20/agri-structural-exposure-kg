@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Raw data (large files)
+data/raw/
+
+# Generated RDF (can be regenerated)
+rdf/
+
+# Figures (can be regenerated)
+figures/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
